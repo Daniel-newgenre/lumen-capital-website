@@ -25,7 +25,11 @@ const Hero = ({
     <section className="bg-gradient-to-br from-blue-900 via-blue-800 to-indigo-900 text-white py-20 px-4">
       <div className="max-w-4xl mx-auto text-center">
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
         <h1 className="text-5xl md:text-6xl font-bold mb-6 leading-tight text-white">
+=======
+        <h1 className="text-5xl md:text-6xl font-bold mb-6 leading-tight text-red-500">
+>>>>>>> Stashed changes
 =======
         <h1 className="text-5xl md:text-6xl font-bold mb-6 leading-tight text-red-500">
 >>>>>>> Stashed changes
